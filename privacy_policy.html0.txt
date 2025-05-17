@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Privacy Policy - EchoText</title>
+<style>
+  body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background: #fff; color: #333; }
+  h1, h2 { color: #2c3e50; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy – EchoText</h1>
+
+<p><strong>Effective Date:</strong> May 16, 2025</p>
+
+<p><strong>EchoText</strong> (“we”, “our”, or “us”) operates the EchoText mobile application (“App”). This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal information when you use our App.</p>
+
+<h2>1. Information We Collect</h2>
+<p>We do <strong>not collect</strong>, store, or share any personal information. All text you input is processed <strong>locally</strong> on your device and is <strong>not transmitted</strong> to any server or third party.</p>
+
+<h2>2. Permissions</h2>
+<p>The App only requires basic permissions to function properly. It does <strong>not</strong> access or use personal data.</p>
+
+<h2>3. Advertisements</h2>
+<p>EchoText <strong>does not contain any advertisements</strong>.</p>
+
+<h2>4. Data Security</h2>
+<p>Since no personal data is collected or stored, your privacy is fully protected.</p>
+
+<h2>5. Children’s Privacy</h2>
+<p>Our App is not intended for children under the age of 13. We do not knowingly collect personal information from children.</p>
+
+<h2>6. Changes to This Privacy Policy</h2>
+<p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.</p>
+
+<h2>7. Contact Us</h2>
+<p>If you have any questions or suggestions regarding this Privacy Policy, please contact us at:<br />
+<a href="mailto:smail.app.dev@gmail.com">smail.app.dev@gmail.com</a></p>
+
+</body>
+</html>
